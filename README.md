@@ -21,5 +21,9 @@ Car &amp; Pedestrian tracking system in python programming language using OpenCV
 
 
 
-### HOW IT WORKS
+### WORKING OF THE MODEL
+![After](IMG%20SAMPLE%20(6).png)
+
+### WORKING OF THE HAAR FEATURES
+![After](IMG%20SAMPLE%20(5).png)
 
