@@ -27,6 +27,11 @@ Car &amp; Pedestrian tracking system in python programming language using OpenCV
 ### WORKING OF THE HAAR FEATURES
 ![After](IMG%20SAMPLE%20(5).png)
 
+### FINAL RESULT
+![After](FINAL%20RESULT%20(1).png)
+![After](FINAL%20RESULT%20(2).png)
+![After](FINAL%20RESULT%20(3).png)
+
 * **NOTE** : Processing speed depens on the system configuration
 
 ## CREDITS
